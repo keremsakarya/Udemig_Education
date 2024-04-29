@@ -5,8 +5,11 @@ In this site, our goal is introduce and explain the Udemig Education to users an
 # Features
 
 Styling has been done using the SCSS structure.
+
 Google Fonts structure has been integrated.
+
 FontAwesome library has been utilized.
+
 Responsive designs have been prepared for different resolutions.
 
 # GIF

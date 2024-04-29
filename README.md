@@ -4,7 +4,10 @@ In this site, our goal is introduce and explain the Udemig Education to users an
 
 # Features
 
-We have made a fresh interface in our website which has full responsive. We've supported our site with hover effects and transitions.
+Styling has been done using the SCSS structure.
+Google Fonts structure has been integrated.
+FontAwesome library has been utilized.
+Responsive designs have been prepared for different resolutions.
 
 # GIF
 
